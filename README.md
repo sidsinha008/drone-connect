@@ -87,13 +87,3 @@ Every push to the main branch triggers an automatic redeployment.
 * Environment variables (if added later) should be configured in Vercel.
 * This project follows modern frontend best practices for scalability and performance.
 
----
-
-If you want, I can also:
-
-* Optimize this README for **resume / portfolio impact**
-* Add **architecture diagrams**
-* Add **badges (Vercel, React, TypeScript)**
-* Rewrite it for a **hackathon or internship submission**
-
-Just tell me.
